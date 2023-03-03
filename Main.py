@@ -1,6 +1,5 @@
 import youtube_dl
 from youtube_search import YoutubeSearch as search
-import platform
 import os
 config = {
     'format': 'bestaudio/best',
